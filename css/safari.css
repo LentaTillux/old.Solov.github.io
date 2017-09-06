@@ -1,0 +1,6 @@
+.safari-bl{
+  color: red;
+}
+.safari-bl a, .safari-bl label{
+  -webkit-tap-highlight-color: green;
+}
